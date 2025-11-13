@@ -1,9 +1,47 @@
-- 👋 Hi, I’m @SneaKy17
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning Html ...
-- 💞️ I’m looking to collaborate...
+# Hi there, I'm Nikhil (aka SneaKy17) 👋
 
-<!---
-SneaKy17/SneaKy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love building and experimenting with code — currently focusing on Python and TypeScript while exploring AI assistants and polishing portfolio projects.
+
+---
+
+## 🔭 Current Focus
+- Hinata AI Assistant (natural language interaction + modular skills)
+- Improving structure in Portfolio Projects (readability, reusability, docs)
+- Strengthening fundamentals: async patterns, clean code, testing
+
+## 🧰 Tech & Tools
+Languages: Python · TypeScript · (learning) HTML/CSS
+Tools & Concepts: GitHub Actions · REST APIs · Prompt Engineering · Modular Architecture · Automation
+
+## 📌 Featured / To Pin
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| Hinata-AI-Assistant | Personal AI assistant experiments | Python | Active / Evolving |
+| Portfolio-Projects | Collection of learning & showcase builds | Mixed (TS/Py) | Ongoing |
+| (Future Starter) | Planned template repo (backend or bot) | TBD | Coming Soon |
+
+## 🧪 Learning Log
+- Built conversational flows & intent handling for an assistant
+- Iterated on project organization (separating logic from config)
+- Practiced writing clearer commit messages & small PR-sized changes
+
+## 🚀 Roadmap
+- Add CONTRIBUTING and project documentation
+- Introduce simple test suites (Pytest / Jest)
+- Add workflow for lint + test (GitHub Actions)
+- Refactor AI assistant modules for extensibility
+
+## 🤝 Collaboration
+Open to small contributions, feedback, or pairing on:
+- Assistant features / command modules
+- Repository cleanup & automation
+- Lightweight dev tools / scripts
+
+## 📬 Contact
+- Email: nikhilsaklani7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nikhil-saklani
+
+## 🧩 Personal
+Curious about making helpful tools that feel interactive and smooth to use. Always refining and learning by building.
+
+Thanks for visiting! ✨
