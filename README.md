@@ -1,4 +1,22 @@
+👋 Hi, I'm Nikhil Saklani — a Python Developer and Data Science learner passionate about building real-world projects. I explore ML models, automate workflows, and visualize data using Pandas, NumPy, and Tableau. Currently participating in Google Tunix and AI Agent challenges. Let’s connect and build something impactful!
 
+---
+
+## 🔭 Current Focus
+- Hinata AI Assistant (natural language interaction + modular skills)
+- Improving structure in Portfolio Projects (readability, reusability, docs)
+- Strengthening fundamentals: async patterns, clean code, testing
+
+## 🧰 Tech & Tools
+Languages: Python · TypeScript · (learning) HTML/CSS
+Tools & Concepts: GitHub Actions · REST APIs · Prompt Engineering · Modular Architecture · Automation
+
+## 📌 Featured / To Pin
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| Hinata-AI-Assistant | Personal AI assistant experiments | Python | Active / Evolving |
+| Portfolio-Projects | Collection of learning & showcase builds | Mixed (TS/Py) | Ongoing |
+| (Future Starter) | Planned template repo (backend or bot) | TBD | Coming Soon |
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-saklani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilsaklani7@gmail.com) 
 
