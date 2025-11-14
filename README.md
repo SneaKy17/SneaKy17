@@ -1,6 +1,6 @@
 # Hi there, I'm Nikhil (aka SneaKy17) 👋
 
-I love building and experimenting with code — currently focusing on Python and TypeScript while exploring AI assistants and polishing portfolio projects.
+👋 Hi, I'm Nikhil Saklani — a Python Developer and Data Science learner passionate about building real-world projects. I explore ML models, automate workflows, and visualize data using Pandas, NumPy, and Tableau. Currently participating in Google Tunix and AI Agent challenges. Let’s connect and build something impactful!
 
 ---
 
