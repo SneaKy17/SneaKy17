@@ -16,7 +16,7 @@ Tools & Concepts: GitHub Actions · REST APIs · Prompt Engineering · Modular A
 |---------|-------------|-------|--------|
 | Hinata-AI-Assistant | Personal AI assistant experiments | Python | Active / Evolving |
 | Portfolio-Projects | Collection of learning & showcase builds | Mixed (TS/Py) | Ongoing |
-| (Future Starter) | Planned template repo (backend or bot) | TBD | Coming Soon |
+| Student-performace-ml | Ml model training & performance insights | python/ML | Active |
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-saklani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilsaklani7@gmail.com) 
 
