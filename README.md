@@ -20,7 +20,7 @@ nikhil = {
     "education"  : "B.Tech CS @ Baddi University (2022–2026)",
     "experience" : ["Python Backend Intern @ Agastyaan Technology",
                     "Full-Stack Intern @ HopingMinds"],
-    "certified"  : "DataCamp Associate Data Scientist in Python (13 courses · 5 ML projects)",
+    "certified"  : "DataCamp Python Data Associate",
     "stack"      : ["Python", "Scikit-learn", "Pandas", "FastAPI", "SQL"],
     "currently"  : "Open to Python Developer / Data Science roles in India 🇮🇳"
 }
