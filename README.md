@@ -113,7 +113,7 @@ nikhil = {
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| Associate Data Scientist in Python (13 courses · 5 projects) | DataCamp | 2025 |
+| Python Data Associate | DataCamp | 2026 |
 | Data Analytics Job Simulation | Deloitte Australia via Forage | 2025 |
 | Python Developer Internship | Agastyaan Technology | 2025 |
 | Introduction to Data Science with AI & ML | Cisco | 2024 |
