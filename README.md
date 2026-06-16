@@ -34,7 +34,7 @@ nikhil = {
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ nikhil = {
       <a href="https://github.com/SneaKy17/brain-tumor-detection"><b>â†’ View Repository</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>ðŸ©º Diabetes Risk Predictor</h3>
+      <h3> Diabetes Risk Predictor</h3>
       <p>End-to-end ML pipeline with XGBoost (AUC 0.95), SHAP explainability, and a deployed Streamlit web app.</p>
       <p>
         <img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat-square" alt="XGBoost"/>
@@ -61,7 +61,7 @@ nikhil = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ðŸ¤– JARVIS AI Assistant</h3>
+      <h3> JARVIS AI Assistant</h3>
       <p>AI-powered personal assistant using Groq LLaMA 3.3 70B with voice recognition and bilingual EN/HI support.</p>
       <p>
         <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square" alt="Groq"/>
@@ -71,7 +71,7 @@ nikhil = {
       <a href="https://github.com/SneaKy17/jarvis-ai-assistant"><b>â†’ View Repository</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>ðŸ™ï¸ City Air Quality Forecaster</h3>
+      <h3>¸ City Air Quality Forecaster</h3>
       <p>Time-series forecasting of city air quality using LSTM and classical ML models with rich visualizations.</p>
       <p>
         <img src="https://img.shields.io/badge/LSTM-7B3F00?style=flat-square" alt="LSTM"/>
@@ -85,7 +85,7 @@ nikhil = {
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## ¸ Tech Stack
 
 **Languages**
 
@@ -120,7 +120,7 @@ nikhil = {
 
 ---
 
-## ðŸ“Š GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -138,7 +138,7 @@ nikhil = {
 
 ---
 
-## ðŸ† GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -148,7 +148,7 @@ nikhil = {
 
 ---
 
-## ðŸ“ˆ Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -164,6 +164,6 @@ nikhil = {
 
 <br/>
 
-**â­ If you find my projects useful, consider starring them!**
+**â If you find my projects useful, consider starring them!**
 
 </div>
