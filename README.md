@@ -1,127 +1,169 @@
-<h1 align="center">Hey, I'm Nikhil Saklani 👋</h1>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <b>Python Developer &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Data Science</b><br/>
-  <i>I build end-to-end ML pipelines — from messy data to deployed APIs</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=6C9EF8&center=true&vCenter=true&random=false&width=750&lines=Hey+there%2C+I'm+Nikhil+Saklani+%F0%9F%91%8B;Python+Developer+%26+ML+Engineer+%F0%9F%A4%96;Building+AI+that+matters+%F0%9F%9A%80;Open+to+Data+Science+roles+in+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/nikhil-saklani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:saklanithakur2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SneaKy17&style=for-the-badge&color=0077B5" alt="profile views"/>
-</p>
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-saklani)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saklanithakur2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SneaKy17)
+[![Profile Views](https://komarev.com/ghpvc/?username=SneaKy17&style=for-the-badge&color=6C9EF8&label=PROFILE+VIEWS)](https://github.com/SneaKy17)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## ðŸ‘¨â€ðŸ’» About Me
 
 ```python
 nikhil = {
-    "education"  : "B.Tech CS @ Baddi University (2022–2026)",
-    "experience" : ["Python Backend Intern @ Agastyaan Technology",
-                    "Full-Stack Intern @ HopingMinds"],
+    "name"       : "Nikhil Saklani",
+    "education"  : "B.Tech CS @ Baddi University (2022â€“2026)",
+    "experience" : [
+        "Python Backend Intern  @ Agastyaan Technology",
+        "Full-Stack Intern      @ HopingMinds",
+    ],
     "certified"  : "DataCamp Python Data Associate",
-    "stack"      : ["Python", "Scikit-learn", "Pandas", "FastAPI", "SQL"],
-    "currently"  : "Open to Python Developer / Data Science roles in India 🇮🇳"
+    "stack"      : ["Python", "Scikit-learn", "XGBoost", "TensorFlow",
+                    "FastAPI", "Streamlit", "SQL", "Docker"],
+    "interests"  : ["Machine Learning", "MLOps", "Healthcare AI", "NLP"],
+    "currently"  : "Open to Python Developer / Data Science roles in India ðŸ‡®ðŸ‡³",
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸš€ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ðŸ§  Brain Tumor Detection</h3>
+      <p>Deep learning CNN + OpenCV watershed segmentation for MRI classification. Tkinter GUI for real-time inference.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      </p>
+      <a href="https://github.com/SneaKy17/brain-tumor-detection"><b>â†’ View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ðŸ©º Diabetes Risk Predictor</h3>
+      <p>End-to-end ML pipeline with XGBoost (AUC 0.95), SHAP explainability, and a deployed Streamlit web app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat-square" alt="XGBoost"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/SHAP-4E9BCD?style=flat-square" alt="SHAP"/>
+      </p>
+      <a href="https://github.com/SneaKy17/early-diabetes-risk-predictor"><b>â†’ View Repository</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ðŸ¤– JARVIS AI Assistant</h3>
+      <p>AI-powered personal assistant using Groq LLaMA 3.3 70B with voice recognition and bilingual EN/HI support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square" alt="Groq"/>
+        <img src="https://img.shields.io/badge/LLaMA_3.3-0467DF?style=flat-square" alt="LLaMA"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      </p>
+      <a href="https://github.com/SneaKy17/jarvis-ai-assistant"><b>â†’ View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ðŸ™ï¸ City Air Quality Forecaster</h3>
+      <p>Time-series forecasting of city air quality using LSTM and classical ML models with rich visualizations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LSTM-7B3F00?style=flat-square" alt="LSTM"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib"/>
+      </p>
+      <a href="https://github.com/SneaKy17/City-Air-Quality-Forecaster"><b>â†’ View Repository</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ðŸ› ï¸ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Data Science & ML**
+**Machine Learning & AI**
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-4E9BCD?style=flat-square)
 
-**Web & APIs**
+**MLOps & Deployment**
 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Web & Databases**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Dev Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## ðŸ“Š GitHub Stats
 
-### 🎯 [Student Performance Prediction API](https://github.com/SneaKy17/student-performance-ml)
-> End-to-end ML regression pipeline — from raw data to a live REST API
+<div align="center">
 
-| Metric | Result |
-|--------|--------|
-| Model Accuracy | R² = 0.91 |
-| Dataset Size | 1,000+ records |
-| Models Benchmarked | 3 (Linear, Ridge, Decision Tree) |
-| Validation | 5-fold cross-validation |
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SneaKy17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C9EF8&icon_color=6C9EF8" alt="Nikhil's GitHub Stats"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SneaKy17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C9EF8&langs_count=8" alt="Top Languages"/>
 
-- Full preprocessing: null imputation, outlier capping, MinMax scaling, stratified split
-- Productionized as **FastAPI POST endpoint** — JSON input → score prediction + confidence interval
+</div>
 
-`Python` `Scikit-learn` `Pandas` `FastAPI` `Matplotlib`
+<div align="center">
 
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SneaKy17&theme=tokyonight&hide_border=true&background=0D1117&ring=6C9EF8&fire=6C9EF8&currStreakLabel=6C9EF8)](https://git.io/streak-stats)
 
-### 🏥 [AI Medical Risk Predictor](https://github.com/SneaKy17/ai-medical-risk-predictor)
-> ML classification model for medical risk assessment using patient health indicators
-
-- Binary classification with focus on precision/recall tradeoffs for healthcare context
-- Evaluated multiple classifiers; selected best performer via cross-validation
-
-`Python` `Scikit-learn` `Pandas` `Healthcare` `Classification`
+</div>
 
 ---
 
-### 📊 [Social Media Growth Analysis](https://github.com/SneaKy17/social-media-growth-analysis)
-> Analytics pipeline processing 10,000+ multi-platform engagement records
+## ðŸ† GitHub Trophies
 
-- Identified **3 high-impact content patterns** with 30–35% higher engagement via Pearson correlation
-- Automated weekly reporting: reduced manual analysis from **~3 hours → under 10 minutes**
-- 8 visualization types (line, heatmap, bar, scatter, box) for stakeholder reporting
+<div align="center">
 
-`Python` `Pandas` `Matplotlib` `Seaborn` `NumPy`
+[![trophy](https://github-profile-trophy.vercel.app/?username=SneaKy17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SneaKy17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SneaKy17&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
-</p>
+</div>
 
 ---
 
-## 🏅 Certifications
+## ðŸ“ˆ Contribution Graph
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| Python Data Associate | DataCamp | 2026 |
-| Data Analytics Job Simulation | Deloitte Australia via Forage | 2025 |
-| Python Developer Internship | Agastyaan Technology | 2025 |
-| Introduction to Data Science with AI & ML | Cisco | 2024 |
-| Full-Stack Web Development Internship | HopingMinds | 2024 |
+<div align="center">
+
+[![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SneaKy17&theme=tokyo-night&bg_color=0D1117&color=6C9EF8&line=6C9EF8&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>💡 Open to Python Developer / Data Science roles across India — let's build something!</i><br/><br/>
-  <a href="https://linkedin.com/in/nikhil-saklani">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:saklanithakur2@gmail.com">Email</a>
-</p>
+<div align="center">
+
+*"The goal is to turn data into information, and information into insight."* â€” Carly Fiorina
+
+<br/>
+
+**â­ If you find my projects useful, consider starring them!**
+
+</div>
