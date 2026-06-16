@@ -14,7 +14,7 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## » About Me
 
 ```python
 nikhil = {
